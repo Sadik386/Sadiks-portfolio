@@ -161,13 +161,5 @@ This project is open source and available under the [MIT License](LICENSE).
 
 Original Figma design template from the Figma Community. Enhanced and adapted for modern web standards.
 
-## 📞 Contact
-
-For questions or support, please reach out via:
-- Email: [your-email@example.com]
-- LinkedIn: [your-linkedin-profile]
-- Website: [your-website.com]
-
----
 
 ⭐ If you found this helpful, please give it a star on GitHub!
