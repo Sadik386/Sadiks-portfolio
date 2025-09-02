@@ -1,10 +1,10 @@
-# Portfolio Website from Figma Design
+# Portfolio Website 
 
-A modern, responsive portfolio website created from a Figma design template using React and Tailwind CSS.
+A modern, responsive portfolio website created from a Sadiks design template using React and Tailwind CSS.
 
 ## 🚀 Features
 
-- **Pixel-Perfect Design** - Built from Figma design tokens
+- **Pixel-Perfect Design** - Built from Sadik design tokens
 - **Fully Responsive** - Optimized for desktop, tablet, and mobile
 - **Modern Tech Stack** - React, Tailwind CSS, and modern JavaScript
 - **Smooth Animations** - Custom animations and hover effects
@@ -60,7 +60,7 @@ A modern, responsive portfolio website created from a Figma design template usin
 1. Clone the repository
 ```bash
 git clone <your-repo-url>
-cd figma-portfolio
+cd Sadik-portfolio
 ```
 
 2. Install dependencies
