@@ -4,7 +4,6 @@ A modern, responsive portfolio website created from a Sadiks design template usi
 
 ## 🚀 Features
 
-- **Pixel-Perfect Design** - Built from Sadik design tokens
 - **Fully Responsive** - Optimized for desktop, tablet, and mobile
 - **Modern Tech Stack** - React, Tailwind CSS, and modern JavaScript
 - **Smooth Animations** - Custom animations and hover effects

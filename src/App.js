@@ -355,7 +355,7 @@ const App = () => {
                 When I'm not coding, you'll find me exploring new technologies, contributing to open-source projects, or learning about the latest developments in web development and software engineering.
               </p>
               <a 
-                href="/Cv_update (2).pdf" 
+                href="/Sadiks CV.pdf" 
                 download="Sadik_Rahman_CV.pdf"
                 className="inline-block bg-primary text-white px-8 py-3 rounded-md text-lg font-semibold hover:bg-primary/90 transition-colors"
               >
